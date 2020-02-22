@@ -8,7 +8,7 @@
    attr_accessor :(',')
    
    def initialize(' ,')
-   p
+   
    
  end
    
