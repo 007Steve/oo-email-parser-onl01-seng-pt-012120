@@ -13,7 +13,7 @@
  end
    
    
-   def parse(email)
+   def parse()
      
      emails.delete(',').split.uniq
    end
