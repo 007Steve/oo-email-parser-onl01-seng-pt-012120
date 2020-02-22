@@ -5,11 +5,16 @@
  
  class EmailAddressParser
    
-   attr_accessor :(',')
+   attr_accessor :email
    
-   def initialize(',')
-   @parse = (',')
+   def initialize(email)
+   @email = email
    
  end
    
+   
+   def parse(email)
+     
+     
+   end
  end
