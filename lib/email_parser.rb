@@ -7,8 +7,8 @@
    
    attr_accessor :(',')
    
-   def initialize(' ,')
-   
+   def initialize(',')
+   @parse = (',')
    
  end
    
